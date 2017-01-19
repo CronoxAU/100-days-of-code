@@ -1,30 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 17th, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Got a lot of the functionality done for the Pomodoro Clock.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Virtually all Javascript work today, starting to get things to a place where I am happy with the functionality and now need to look at the design and interface
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[FreeCodeCamp - Build a Pomodoro Clock](http://codepen.io/Cronox/full/BpKryB/)
+
+### Day 2: January 18th, 2017
+
+**Today's Progress**: Focused on the design side of this today and felt like I was getting close to having it completed. Also did a bit of debugging and testing.
+
+**Thoughts**: Lots of CSS and HTML this time, this is an area I struggle in, both in terms of actuall comming up with a good looking design and then in implimenting the design. That said I feel like my CSS is improving and I am starting to be able to impliment most of my (still very poor) designs fairly accurately.
+
+**Link(s) to work**
+[FreeCodeCamp - Build a Pomodoro Clock](http://codepen.io/Cronox/full/BpKryB/)
+
+### Day 3: January 19th, 2017
+
+**Today's Progress**: Completed and submitted the Pomodoro Clock project and began laying out my plans for the Tic Tac Toe project.
+
+**Thoughts**: Had some insperation overnight and changed the Pomodoro Clock design to comething I am more happy with. Felt very good in testing it as it genrally worked quite well, fixed a few bugs and added one new function to finish it all off. Very happy with how it turned out even if the design is still not very good.
+Started basic initial work on the Tic Tac Toe game, mostly setting up the project and object for tracking the game state. I'm looking very forward to this project as I havn't does anything with this much interactivity yet.
+
+**Link(s) to work**
+[FreeCodeCamp - Build a Pomodoro Clock](http://codepen.io/Cronox/full/BpKryB/)
+[FreeCodeCamp - Build a Tic Tac Toe](http://codepen.io/Cronox/full/pRRpwN/)
