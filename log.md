@@ -23,8 +23,19 @@
 **Today's Progress**: Completed and submitted the Pomodoro Clock project and began laying out my plans for the Tic Tac Toe project.
 
 **Thoughts**: Had some insperation overnight and changed the Pomodoro Clock design to comething I am more happy with. Felt very good in testing it as it genrally worked quite well, fixed a few bugs and added one new function to finish it all off. Very happy with how it turned out even if the design is still not very good.
+
 Started basic initial work on the Tic Tac Toe game, mostly setting up the project and object for tracking the game state. I'm looking very forward to this project as I havn't does anything with this much interactivity yet.
 
 **Link(s) to work**
 [FreeCodeCamp - Build a Pomodoro Clock](http://codepen.io/Cronox/full/BpKryB/)
+
+[FreeCodeCamp - Build a Tic Tac Toe](http://codepen.io/Cronox/full/pRRpwN/)
+
+### Day 4: January 20th, 2017
+
+**Today's Progress**: MAde good progress on getting the basic interface and logig in place for the tic tac toe game
+
+**Thoughts**: I'm very happy with this one. I didn't expect to get much done today but as so often happens once I got started it was very hard to stop. The tic tac toe game is now playable in the most basic sense, next steps will be adding the AI and working on the UI.
+
+**Link(s) to work**
 [FreeCodeCamp - Build a Tic Tac Toe](http://codepen.io/Cronox/full/pRRpwN/)
