@@ -33,9 +33,18 @@ Started basic initial work on the Tic Tac Toe game, mostly setting up the projec
 
 ### Day 4: January 20th, 2017
 
-**Today's Progress**: MAde good progress on getting the basic interface and logig in place for the tic tac toe game
+**Today's Progress**: Made good progress on getting the basic interface and logig in place for the tic tac toe game
 
 **Thoughts**: I'm very happy with this one. I didn't expect to get much done today but as so often happens once I got started it was very hard to stop. The tic tac toe game is now playable in the most basic sense, next steps will be adding the AI and working on the UI.
+
+**Link(s) to work**
+[FreeCodeCamp - Build a Tic Tac Toe](http://codepen.io/Cronox/full/pRRpwN/)
+
+### Day 5: January 21nd and 23rd, 2017
+
+**Today's Progress**: Tic Tac Toe is vitually fully functional, now it's time for the AI.
+
+**Thoughts**: Counting two days as one here as I didn't get much done on Saturday, although I did get a good amoutn of work done on sunday. Very happy with how this is working and already thinking about the AI.
 
 **Link(s) to work**
 [FreeCodeCamp - Build a Tic Tac Toe](http://codepen.io/Cronox/full/pRRpwN/)
