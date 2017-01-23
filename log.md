@@ -40,11 +40,22 @@ Started basic initial work on the Tic Tac Toe game, mostly setting up the projec
 **Link(s) to work**
 [FreeCodeCamp - Build a Tic Tac Toe](http://codepen.io/Cronox/full/pRRpwN/)
 
-### Day 5: January 21nd and 23rd, 2017
+### Day 5: January 21nd and 22nd, 2017
 
 **Today's Progress**: Tic Tac Toe is vitually fully functional, now it's time for the AI.
 
 **Thoughts**: Counting two days as one here as I didn't get much done on Saturday, although I did get a good amoutn of work done on sunday. Very happy with how this is working and already thinking about the AI.
+
+**Link(s) to work**
+[FreeCodeCamp - Build a Tic Tac Toe](http://codepen.io/Cronox/full/pRRpwN/)
+
+### Day 6: January 23rd, 2017
+
+**Today's Progress**: Got Tic Tac Toe AI system running. Spent some time in the FreeCodeCamp Glitter helping people out with debugging and questions.
+
+**Thoughts**: I learnt a lot geting the AI for Tic Tac Toe going mainly with objects, arrays and refrences in Javascript. Just have to tweak the weighting now and make a few UI changes. 
+
+The time spent in Glitter reviewing others code is invaluable, I feel like I learn as much as the people I help out.
 
 **Link(s) to work**
 [FreeCodeCamp - Build a Tic Tac Toe](http://codepen.io/Cronox/full/pRRpwN/)
