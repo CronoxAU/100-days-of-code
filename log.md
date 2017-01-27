@@ -82,3 +82,9 @@ Started the very basics of the Simon game, I can already tell that this one is r
 
 With the size of this project I am looking to move away from codepen for the development process. Given this, and the fact that this is all for learning I am leaning towards setting this up as a github project and learning the basics of this system. 
 
+### Day 9: January 27th, 2017
+
+**Today's Progress**: Got my Simon project up on github and worked on accessing github projects through Vusual Studio and VS code. Discovered www.codingame.com and has a good time playing around with that.
+
+**Thoughts**: Getting Git set-up was suprisingly frustrating but I think it is working as needed now. [CodinGame](https://www.codingame.com) came along at exactly the right time to provide a nice distraction and some good fun.
+
