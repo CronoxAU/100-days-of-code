@@ -88,3 +88,17 @@ With the size of this project I am looking to move away from codepen for the dev
 
 **Thoughts**: Getting Git set-up was suprisingly frustrating but I think it is working as needed now. [CodinGame](https://www.codingame.com) came along at exactly the right time to provide a nice distraction and some good fun.
 
+### Day 10: January 28th, 2017
+
+**Today's Progress**: More playing around with CodingGame. Also made a little bit of progress on the Simon game, getting the flashing system working.
+
+**Thoughts**: [CodinGame](https://www.codingame.com) continues to be good fun. The UI is not the best in the world but the games are enjoyable and the ability to select from so many different languags should make this a toll I go back to when learning something new.
+
+Progress on somin was slow, hopefully I will do better tomorrow.
+
+### Day 11: January 29th, 2017
+
+**Today's Progress**: More CodingGame and got the basic structure for my Simon game working.
+
+**Thoughts**: Very happy to get some progress on the Simon game. I am mostly following along with some tutorials but it's been a great project so far and I am picking up a lot about javascript objects.
+
