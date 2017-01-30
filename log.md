@@ -102,3 +102,9 @@ Progress on somin was slow, hopefully I will do better tomorrow.
 
 **Thoughts**: Very happy to get some progress on the Simon game. I am mostly following along with some tutorials but it's been a great project so far and I am picking up a lot about javascript objects.
 
+### Day 12: January 30th, 2017
+
+**Today's Progress**: Completed 3 more challanges at CodinGame
+
+**Thoughts**: This started off as a little bit of a diversion from larger projects but as quickly turned into a decent, interesting challenge in it's own right. I would like to spend some time on the simon project soon but this is a great way to get some meaningful practice done with numerious fairly small time commitments (rathert then really needing to sit with a bigger project for at least a few hours).
+
