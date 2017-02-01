@@ -108,3 +108,9 @@ Progress on somin was slow, hopefully I will do better tomorrow.
 
 **Thoughts**: This started off as a little bit of a diversion from larger projects but as quickly turned into a decent, interesting challenge in it's own right. I would like to spend some time on the simon project soon but this is a great way to get some meaningful practice done with numerious fairly small time commitments (rathert then really needing to sit with a bigger project for at least a few hours).
 
+### Day 13: January 31th, 2017
+
+**Today's Progress**: Got through a few more CodinGame challenges
+
+**Thoughts**: As mentioned yesterday these are starting to ramp up nicely and get quite challenging while still being small enough to attack in small sessions throughout the day.
+
