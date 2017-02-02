@@ -114,3 +114,8 @@ Progress on somin was slow, hopefully I will do better tomorrow.
 
 **Thoughts**: As mentioned yesterday these are starting to ramp up nicely and get quite challenging while still being small enough to attack in small sessions throughout the day.
 
+### Day 14: February 1st, 2017
+
+**Today's Progress**: More CodinGame challenges, on to the medium level now.
+
+**Thoughts**: Still haveing a really great time with these, nice involved challenges but not too complex.
