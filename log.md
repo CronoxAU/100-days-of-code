@@ -119,3 +119,12 @@ Progress on somin was slow, hopefully I will do better tomorrow.
 **Today's Progress**: More CodinGame challenges, on to the medium level now.
 
 **Thoughts**: Still haveing a really great time with these, nice involved challenges but not too complex.
+
+### Day 15: February 2nd, 2017
+
+**Today's Progress**: more CodinGame
+
+**Thoughts**: I have now moved into some of the meduim challanges and am hopelessly addicted. I'm coding these games whenever I have a spare few minutes and thinking about them all the time. I particually enjoyed the second level of the landing the mars rover challange.
+
+**Link(s) to work**
+[CodinGame](https://www.codingame.com)
