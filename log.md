@@ -129,7 +129,7 @@ Progress on somin was slow, hopefully I will do better tomorrow.
 **Link(s) to work**
 [CodinGame](https://www.codingame.com)
 
-### Day 15: February 2nd, 2017
+### Day 16: February 3rd, 2017
 
 **Today's Progress**: CodinGame
 
@@ -138,13 +138,13 @@ Progress on somin was slow, hopefully I will do better tomorrow.
 **Link(s) to work**
 [CodinGame](https://www.codingame.com)
 
-### Day 16: February 2nd, 2017
+### Day 17: February 4th, 2017
 
 **Today's Progress**: UI and gameplay for Simon Game
 
 **Thoughts**: After a week working on littler challanges I finally got back to my Simon game, focusing on the UI and gameplay. The UI is mostly in place now which just a bit of menu functionality to go. Only the very basics of the gameplay are in place. I will be looking to get the UI completed next then focus on the gameplay and testing/debugging.
 
-### Day 17: February 2nd, 2017
+### Day 18: February 5th, 2017
 
 **Today's Progress**: UI and general functionality work on Simon Game
 
