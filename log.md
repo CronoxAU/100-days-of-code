@@ -152,3 +152,14 @@ Progress on somin was slow, hopefully I will do better tomorrow.
 
 **Link(s) to work**
 [Simon Game GitHub](https://github.com/CronoxAU/SimonGame)
+
+### Day 19: February 7th, 2017
+
+**Today's Progress**: Functionality and interface for Simon game is complete
+
+**Thoughts**: Got really stuck into this today, completing the last functionality items and getting everything I want on the UI. Still have some testing and styling to do but I am very happy and proud to have this all in place and working.
+
+**Link(s) to work**
+[Simon Game GitHub](https://github.com/CronoxAU/SimonGame)
+
+[Simon Game Codepen](http://codepen.io/Cronox/full/pRwLQx/)
