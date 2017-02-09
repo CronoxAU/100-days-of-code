@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 9th, 2017
+
+**Today's Progress**: A bit of a down day today, spent some time helping people in the FreeCodeCamp chat channels and a bit of work getting set-up and started with node.js
+
+**Thoughts**: After a few days working on a good project it's a big change to be back doing smaller/practice items but I am looking very forward to getting stuck into the backend work.
+
 ### Day 20: February 8th, 2017
 
 **Today's Progress**: Simon is done!! FreeCodeCamp front end certificate is mine!
