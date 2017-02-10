@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 10th, 2017
+
+**Today's Progress**: Lots more Node.js basics with learnyounode today.
+
+**Thoughts**: I'm getting into this; I had expected the backend course to focus on database work but so far working on asynchronously HTTP/TCP requests with Node.js has been great fun and a big change from normal synchronous/event driven programming.
+
 ### Day 21: February 9th, 2017
 
 **Today's Progress**: A bit of a down day today, spent some time helping people in the FreeCodeCamp chat channels and a bit of work getting set-up and started with node.js
