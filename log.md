@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 11th, 2017
+
+**Today's Progress**: More introduction to node.js with learnyounode
+
+**Thoughts**: I can tell I'm getting into this because all weekend I have been hanging out to get a little free time so I can jump into the next chllange, or impliment the change I just thought of on the current one. Hopefully I continue having this much fun with the backend work.
+
 ### Day 22: February 10th, 2017
 
 **Today's Progress**: Lots more Node.js basics with learnyounode today.
