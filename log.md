@@ -2,6 +2,12 @@
 
 ### Day 23: February 11th, 2017
 
+**Today's Progress**: Finished learnyounode node.js introduction, got started on expresswork express.js training.
+
+**Thoughts**: I really enjoyed working with node.js, so far the step over to express is proving to be a little tricky. I can see the power here but I'm struggling a bit to see exactly where I am making mistakes. Still three exercises down, 5 more to go so no doubt I will learn some more over the comming days.
+
+### Day 23: February 11th, 2017
+
 **Today's Progress**: More introduction to node.js with learnyounode
 
 **Thoughts**: I can tell I'm getting into this because all weekend I have been hanging out to get a little free time so I can jump into the next chllange, or impliment the change I just thought of on the current one. Hopefully I continue having this much fun with the backend work.
