@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 23: February 11th, 2017
+### Day 24: February 12th, 2017
 
 **Today's Progress**: Finished learnyounode node.js introduction, got started on expresswork express.js training.
 
