@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 13th, 2017
+
+**Today's Progress**: Finished expresswork express.js training and got started in git-it git/githiub introduction
+
+**Thoughts**: Having completed expressworks I'm still not 100% comfortable with express.js. I can see the power of the routing and middleware systems but the abstraction really left me wanting to know more about what was actually going on. Either way it's impressive how simple it is to get a server up and running with very little code.
+
+I'm abouyt half way through git-it which has been a good git introduction. To be honest between this fork and doing my Simon project here I feel like I have a fairly good introductory understanding of what git is about and how it works.
+
 ### Day 24: February 12th, 2017
 
 **Today's Progress**: Finished learnyounode node.js introduction, got started on expresswork express.js training.
