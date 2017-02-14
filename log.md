@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 14th, 2017
+
+**Today's Progress**: Finished git-it git/githiub introduction course and started working on learnyoumongo for MongoDB
+
+**Thoughts**: git-it ended up being quite helpful. I'm really excited about MongoDB, I have worked a lot with SQL dataabses so I'm really excited to see how a noSQL system works. Only 3, mostly set-up, exercises in at the moment but the next few should be very interesting. Then it's time for my first backen project.
+
 ### Day 25: February 13th, 2017
 
 **Today's Progress**: Finished expresswork express.js training and got started in git-it git/githiub introduction
