@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 14th, 2017
+
+**Today's Progress**: Complted a few more learnyoumongo challanges and started at Code Wars
+
+**Thoughts**: learnyoumongo has been interesting, I am enjoying getting to play with a No-SQL database but the actual console program leaves a bit to be desired. I am up to challange 8 of 9 and so far we have just covered basic functions (Connecting to the DB, insert, delete, find, update). I would have liked a little more of a challange as well as a bit on the design and structure of databases.
+
+Just getting started on Code Wars, which seems to be the most popular of the coding challange type sites. It's been quite enjoyable so far and the problems have done a fairly good job of simulating real world type problems.
+
 ### Day 26: February 14th, 2017
 
 **Today's Progress**: Finished git-it git/githiub introduction course and started working on learnyoumongo for MongoDB
