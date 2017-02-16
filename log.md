@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 27: February 14th, 2017
+### Day 27: February 16th, 2017
 
 **Today's Progress**: Complted a few more learnyoumongo challanges and started at Code Wars
 
