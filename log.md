@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 17th, 2017
+
+**Today's Progress**: Complted learnyoumongo challanges and got set-up for the first FreeCodeCamp project timestamp API
+
+**Thoughts**: learnyoumongo proved to be an interesting introduction to No-SQL and MongoDB but ultimatly lacked in depth. I'm looking forward to learning more as I start.
+
+Now it's time to dive into the next project, the timestamp API. Today was mostly just getting things set-up in cloud9 and syncing up with github. I already have a few ideas on what I would like to do here, so hopefully i get some time over the weekend.
+
 ### Day 27: February 16th, 2017
 
 **Today's Progress**: Complted a few more learnyoumongo challanges and started at Code Wars
