@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 29: February 18th, 2017
+
+**Today's Progress**: timestamp API server is up and running, processing invalid requests and unixtime requests.
+
+**Thoughts**: It quickly became apparent that this is very simple API project intended to validate everything we learnt over the past few assignments without needing anything dramatically new but i am still really enjoying it. I'm quite pleased to be making some decent progress already and hopefully I will get to look at the string processing tomorrow.
+
 ### Day 28: February 17th, 2017
 
-**Today's Progress**: Complted learnyoumongo challanges and got set-up for the first FreeCodeCamp project timestamp API
+**Today's Progress**: Completed learnyoumongo challanges and got set-up for the first FreeCodeCamp project timestamp API
 
 **Thoughts**: learnyoumongo proved to be an interesting introduction to No-SQL and MongoDB but ultimatly lacked in depth. I'm looking forward to learning more as I start.
 
