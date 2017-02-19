@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 30: February 19th, 2017
+
+**Today's Progress**: timestamp API server is complete and submitted
+
+**Thoughts**: Really pleased with my progress today, got the timestamp microservice up and running and even got it delpoued to heroku, which I had not used before. Very, very keen to get started on the next project.
+
+**Link(s) to work**
+[Timestamp API Project](https://github.com/CronoxAU/FCC-timestamp-API)
+[Timestamp API](https://timestamp-api-fcc-chris-mclean.herokuapp.com/)
+
 ### Day 29: February 18th, 2017
 
 **Today's Progress**: timestamp API server is up and running, processing invalid requests and unixtime requests.
