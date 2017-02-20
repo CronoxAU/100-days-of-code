@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 20th, 2017
+
+**Today's Progress**: header parser API microservice is complete and submitted
+
+**Thoughts**: This was another nice little project. I'm hopeing the next few projects step things up a bit as I am really liking the node.js work and would like something a bit meater.
+
+**Link(s) to work**
+[header parser microserver Project](https://github.com/CronoxAU/FCC-hearer-parser-API)
+[header parser microserver](https://fcc-header-parser-chris-mclean.herokuapp.com/)
+
 ### Day 30: February 19th, 2017
 
 **Today's Progress**: timestamp API server is complete and submitted
