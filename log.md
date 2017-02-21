@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 21st, 2017
+
+**Today's Progress**: started work on the URL shortener project for FreeCodeCamp
+
+**Thoughts**: This is the backend project I have been waiting for! This is the first one to make use of MongoDB and seemed to have a bit more going on that the previous two. I had to spend a bit of time working on testing with Mongo and also ran into some syncronisation issues which lead to some work on using callbacks. Both were great learning expirences
+
+I think I am on top of both issues now and looking forward to getting stuck in and testing things out.
+
+**Link(s) to work**
+
+[URL Shortener Project](https://github.com/CronoxAU/FCC-url-shortener-service)
+
 ### Day 31: February 20th, 2017
 
 **Today's Progress**: header parser API microservice is complete and submitted
@@ -7,6 +19,7 @@
 **Thoughts**: This was another nice little project. I'm hopeing the next few projects step things up a bit as I am really liking the node.js work and would like something a bit meater.
 
 **Link(s) to work**
+
 [header parser microserver Project](https://github.com/CronoxAU/FCC-hearer-parser-API)
 
 [header parser microserver](https://fcc-header-parser-chris-mclean.herokuapp.com/)
@@ -18,6 +31,7 @@
 **Thoughts**: Really pleased with my progress today, got the timestamp microservice up and running and even got it delpoued to heroku, which I had not used before. Very, very keen to get started on the next project.
 
 **Link(s) to work**
+
 [Timestamp API Project](https://github.com/CronoxAU/FCC-timestamp-API)
 
 [Timestamp API](https://timestamp-api-fcc-chris-mclean.herokuapp.com/)
