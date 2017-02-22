@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 22st, 2017
+
+**Today's Progress**: URL stortener project is functionally complete
+
+**Thoughts**: Lots more learning today on both callbacks and interacting with mongoDB in general. Very happy with how it is comming along. Now onto cleaning up the code, integrating with mlab and getting the index page up to scratch.
+
+**Link(s) to work**
+
+[URL Shortener Project](https://github.com/CronoxAU/FCC-url-shortener-service)
+
 ### Day 32: February 21st, 2017
 
 **Today's Progress**: started work on the URL shortener project for FreeCodeCamp
