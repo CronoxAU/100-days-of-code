@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 33: February 22st, 2017
+### Day 34: February 23rd, 2017
+
+**Today's Progress**: URL stortener project is now live
+
+**Thoughts**: Started today cleaning things up a bit on my project before setting it live then got an application error at Heroku upon deploying. Ended up spending a decent amount of time learning about the Heroku CLI and npm to get everything up and running. Rather than being frustrated I found it a great learning expirence and now have a much better understanding of the role npm plays. This is exactly learning by actually building and deploying things is so much more valuable than solving small challanges or following along with tutorials.
+
+**Link(s) to work**
+
+[URL Shortener Project](https://github.com/CronoxAU/FCC-url-shortener-service)
+
+[URL Shortener](https://fcc-short-url.herokuapp.com/)
+
+### Day 33: February 22nd, 2017
 
 **Today's Progress**: URL stortener project is functionally complete
 
