@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 24th, 2017
+
+**Today's Progress**: Got vscode set-up with git, github and node.js, tested running my URL shortener locally. Reviewed some other URL shortener projects. Began learning React using the FreeCodeCamp beta system.
+
+**Thoughts**: After moving from project to project recently I changed it up a bit today. I would like to move to developing in VS Code rather than cloud9, this all worked well and I was abe to pull my URL shortener project and get it running locally. 
+
+I also took the chance to review some other users URL shortener projects, this has already given me a few good ideas of things I would like to do differently in the next project.
+
+Lastly I got started on the FreeCodeCamp beta React module.
+
+I'll probably try to fouse on one thing again soon but for not it was a nice chance to be jumping around between different things.
+
 ### Day 34: February 23rd, 2017
 
 **Today's Progress**: URL stortener project is now live
