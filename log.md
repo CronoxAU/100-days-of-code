@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 25th, 2017
+
+**Today's Progress**: Started the [Javascript30](https://JavaScript30.com) program to try and improve my javascript skills in a fairly guided way. 
+
+**Thoughts**: Reviewing solutions other people were getting for some of my recent projects it became fairly clear that my Javascript knowledge and style was a bit lacking. Javascript 30 looked like a way to try and improve this, by providing a series of projects along with video explanations.
+
+So far this is looking really good, the first leason was very infromative and I have alreasy picked up a number of useful skills.
+
 ### Day 35: February 24th, 2017
 
 **Today's Progress**: Got vscode set-up with git, github and node.js, tested running my URL shortener locally. Reviewed some other URL shortener projects. Began learning React using the FreeCodeCamp beta system.
