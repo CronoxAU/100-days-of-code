@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 37: February 26th, 2017
+
+**Today's Progress**: Day 2 of Javascript30, topped off with a learning a little more VS code.
+
+**Thoughts**: I'm really enjoying Javascript30, the projects seem to be right arounf the level in need them to be, not reteaching coding fundermentals but covering the power of standard JS and CSS very well.
+
 ### Day 36: February 25th, 2017
 
 **Today's Progress**: Started the [Javascript30](https://JavaScript30.com) program to try and improve my javascript skills in a fairly guided way. 
