@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 38: February 27th, 2017
+
+**Today's Progress**: Lessons 3 and 4 of Javascript30
+
+**Thoughts**: This course continues to be excellent, I learnt a lot from the array work.
+
 ### Day 37: February 26th, 2017
 
 **Today's Progress**: Day 2 of Javascript30, topped off with a learning a little more VS code.
