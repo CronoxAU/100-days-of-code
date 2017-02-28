@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 39: February 28th, 2017
+
+**Today's Progress**: Lessons 5 of Javascript30
+
+**Thoughts**: Learning some felxbox today, my first time using this, and I was quite impressed. It's always good to brush up on my CSS which is very lacking.
+
 ### Day 38: February 27th, 2017
 
 **Today's Progress**: Lessons 3 and 4 of Javascript30
