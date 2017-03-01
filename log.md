@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 40: March 1st, 2017
+
+**Today's Progress**: Lessons 6 of Javascript30 and some more introduction to VS Code videos
+
+**Thoughts**: Yet again Javascript30 lesson was great, learning a very nice filtered dropdown style control using just pure HTML/JS/CSS. Really loving this course and getting a lot out of it.
+
+Likewise I feel like I am learning a lot of VS Code, starting to get more used to using a very light editor.
+
 ### Day 39: February 28th, 2017
 
 **Today's Progress**: Lessons 5 of Javascript30
