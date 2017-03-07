@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 41: March 7th, 2017
+
+**Today's Progress**: Lessons 7 and 8 on Javascript30 plus a little bit of react work.
+
+**Thoughts**: After a few days off for a long weekend away it was tough to get back into things, but i feel good for it.
+
 ### Day 40: March 1st, 2017
 
 **Today's Progress**: Lessons 6 of Javascript30 and some more introduction to VS Code videos
