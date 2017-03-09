@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 42: March 8th, 2017
+
+**Today's Progress**: Completed lesson 9 on Javascript30 then started working at my by myself through the challange for lesson 10.
+
+**Thoughts**: Lesson 9 was very good and I'm quite interested in getting into lesson 10 and attempting it myself as Was suggests.
+
 ### Day 41: March 7th, 2017
 
 **Today's Progress**: Lessons 7 and 8 on Javascript30 plus a little bit of react work.
