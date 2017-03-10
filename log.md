@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 43: March 10th, 2017
+
+**Today's Progress**: Completed lesson 10 and 11 on Javascript 30.
+
+**Thoughts**: Made a bi t of a challange out of both of these. Implimented lesson 10 myself first then watched the video to see Wes do it much more impressivly. For 11 I followed along but tried to work ahead where I could then kept going and added some new feasures to the video player. As usual these were expellent and I feel like I am learning a lot about producing well written, easy to follow code.
+
 ### Day 42: March 8th, 2017
 
 **Today's Progress**: Completed lesson 9 on Javascript30 then started working at my by myself through the challange for lesson 10.
