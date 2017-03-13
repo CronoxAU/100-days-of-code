@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 45: March 13th, 2017
+
+**Today's Progress**: Completed lesson 12 and 13 on Javascript 30.
+
+**Thoughts**: After taking the weekend off it was nice to get a few lessons doen today. Both turned out to be fairly straight forward but very also very effective and as usual Wes' code was clear and consice.
+
 ### Day 43: March 10th, 2017
 
 **Today's Progress**: Completed lesson 10 and 11 on Javascript 30.
