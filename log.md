@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 46: March 15th, 2017
+
+**Today's Progress**: Completed lesson 14 and 15 of Javascript 30.
+
+**Thoughts**: As I have said the last few days these really are great classes and I am learning a lot of Javascript here. I am starting to get an itch for diving back into a project but for now I think I want to keep plugging away at these.
+
 ### Day 45: March 13th, 2017
 
 **Today's Progress**: Completed lesson 12 and 13 on Javascript 30.
