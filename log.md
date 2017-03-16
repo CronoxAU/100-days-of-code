@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 47: March 16th, 2017
+
+**Today's Progress**: Worked my way up to lesson 18 on [FCC's beta React training](http://hysterical-amusement.surge.sh/)
+
+**Thoughts**: The call to do a project got too strong. Rather than continuing on with the backend tasks at FCC I thought I would try some of the data visulisation challanges, particually because it will give me a chance to learn React. So far so good although it's all been fairly basic concepts so far.
+
 ### Day 46: March 15th, 2017
 
 **Today's Progress**: Completed lesson 14 and 15 of Javascript 30.
