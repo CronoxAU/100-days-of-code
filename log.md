@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 49: March 22nd, 2017
+
+**Today's Progress**: Worked my way up to lesson 40 on [FCC's beta React training](http://hysterical-amusement.surge.sh/)
+
+**Thoughts**: Now things are really starting to come together with React. I'm starting to feel more confident in both my understanding of the system as well as seeing the power it offers. Starting to get towards the end of the React section, then it's on to Redux before getting started on the projects.
+
 ### Day 48: March 20th, 2017
 
 **Today's Progress**: Worked my way up to lesson 29 on [FCC's beta React training](http://hysterical-amusement.surge.sh/)
