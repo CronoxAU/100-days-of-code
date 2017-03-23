@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 50: March 23nd, 2017
+
+**Today's Progress**: Worked my way up to lesson 48 on [FCC's beta React training](http://hysterical-amusement.surge.sh/)
+
+**Thoughts**: The end is in sight for these teact lessons and the challanges are starting to reflect that, getting a little tricker and much more powerful. I'm enjoying this learning but as mentioned yesterday I am starting to get keen to reach the end and start trying out a project.
+
+Also I just noticed I am on day 50! I have missed quite a few days but it still feeld good to be half why through this project and I'm very happy with how much it has drawn my attention and focus to spending time learning new things.
+
 ### Day 49: March 22nd, 2017
 
 **Today's Progress**: Worked my way up to lesson 40 on [FCC's beta React training](http://hysterical-amusement.surge.sh/)
