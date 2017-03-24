@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 51: March 24th, 2017
+
+**Today's Progress**: Finished lesson 50 on [FCC's beta React training](http://hysterical-amusement.surge.sh/) and moved on to MArkup Previewer project
+
+**Thoughts**: Getting to the end of the lessons was nice, and as usual stepping into a project was a huge shock to the system. Ended up spending quite a bit of time just getting a React project up and running but I think I have everything right now. Managed to get a fairly basic set-up in place where the user enters text in a text box and that is displayed in a seperate section. Now need to look at applying the markup before displaying the result.
+
 ### Day 50: March 23nd, 2017
 
 **Today's Progress**: Worked my way up to lesson 48 on [FCC's beta React training](http://hysterical-amusement.surge.sh/)
