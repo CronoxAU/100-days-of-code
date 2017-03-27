@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 52: March 27th, 2017
+
+**Today's Progress**: [Markup previewer](http://codepen.io/Cronox/full/Ppexjg/) is completed.
+
+**Thoughts**: As mentioend yesterday, moving from a lesson to a project is always a very big step and this was no exception. This ended up being fairly sinple, and I think I did it is a fairly resonable way but I'm still not at a stage there I am finding React very easy to read so I'm sure there are much more elegent ways of going about this.
+
+I'm planning to send some time over the next few days reviewing other peoples submissions for this project and posts on the issues they come up against and hopfully learn a few tips on neating things up.
+
 ### Day 51: March 24th, 2017
 
-**Today's Progress**: Finished lesson 50 on [FCC's beta React training](http://hysterical-amusement.surge.sh/) and moved on to MArkup Previewer project
+**Today's Progress**: Finished lesson 50 on [FCC's beta React training](http://hysterical-amusement.surge.sh/) and moved on to Markup Previewer project
 
 **Thoughts**: Getting to the end of the lessons was nice, and as usual stepping into a project was a huge shock to the system. Ended up spending quite a bit of time just getting a React project up and running but I think I have everything right now. Managed to get a fairly basic set-up in place where the user enters text in a text box and that is displayed in a seperate section. Now need to look at applying the markup before displaying the result.
 
