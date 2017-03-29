@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 53: March 28th, 2017
+
+**Today's Progress**: Reviewed others submissions for the [Markdown previewer](http://codepen.io/Cronox/full/Ppexjg/) project and made some adjustments to to own system. Began work on the camper leaderboard.
+
+**Thoughts**: Took some time today to review a few other solutions to the Markdown Previewer project as well as reviewing feedback on these projects. This proved to be very valuable as I found a few areas where I was not doing things in a best practice way.
+
 ### Day 52: March 27th, 2017
 
 **Today's Progress**: [Markup previewer](http://codepen.io/Cronox/full/Ppexjg/) is completed.
