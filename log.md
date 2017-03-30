@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 55: March 30th, 2017
+
+**Today's Progress**: My leaderboard app is now up and running, with the functionality working correctly [Camper Leaderboard](http://codepen.io/Cronox/full/EWePmb). 
+
+**Thoughts**: I went with FixedDataTables for displaying the data which I'm not too impressed with, I'm quite interested to see what others did to see how this could be approched differently.
+
 ### Day 54: March 29th, 2017
 
 **Today's Progress**: Got stuck into my [Camper Leaderboard](http://codepen.io/Cronox/full/EWePmb), functionally it's comming along nicely.
