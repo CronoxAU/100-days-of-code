@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 54: March 29th, 2017
+
+**Today's Progress**: Got stuck into my [Camper Leaderboard](http://codepen.io/Cronox/full/EWePmb), functionally it's comming along nicely.
+
+**Thoughts**: I got a little carried away thinking about the look and feel of the page rather than focusing on getting the functionality in place.
+I've got to say not blown away by the way react works with table of data. I'm interested to see how this have been tackled in other peoples projects because it seems like a big shortcomming, particually for business focused apps.
+
 ### Day 53: March 28th, 2017
 
 **Today's Progress**: Reviewed others submissions for the [Markdown previewer](http://codepen.io/Cronox/full/Ppexjg/) project and made some adjustments to to own system. Began work on the camper leaderboard.
