@@ -2,11 +2,11 @@
 
 ### Day 56: April 3rd, 2017
 
-**Today's Progress**: Made some updates to my lreaderboard app to improve the performance/responsivness. Began work on the Recipie Book app.
+**Today's Progress**: Made some updates to my lreaderboard app to improve the performance/responsivness. Began work on the Recipe Book app.
 
 **Thoughts**: I changed the leaderboard site so both sets of data are loaded in initially and just displayed as needed. I'm much more pleased with this set up as it is both more responsive for the user and neater in it's implimentation.
 
-Initial work on the Recipie site is also going well.
+Initial work on the Recipe site is also going well.
 
 ### Day 55: March 30th, 2017
 
