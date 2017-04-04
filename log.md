@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 56: April 3rd, 2017
+
+**Today's Progress**: Made some updates to my lreaderboard app to improve the performance/responsivness. Began work on the Recipie Book app.
+
+**Thoughts**: I changed the leaderboard site so both sets of data are loaded in initially and just displayed as needed. I'm much more pleased with this set up as it is both more responsive for the user and neater in it's implimentation.
+
+Initial work on the Recipie site is also going well.
+
 ### Day 55: March 30th, 2017
 
 **Today's Progress**: My leaderboard app is now up and running, with the functionality working correctly [Camper Leaderboard](http://codepen.io/Cronox/full/EWePmb). 
