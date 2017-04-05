@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 57: April 4th, 2017
+
+**Today's Progress**: Really got stuck into my Recipe Book project today, getting the basic framework for the app in place. Now need to focus on how the user to interace with the data and how it will be saved to localstorage.
+
+**Thoughts**: I'm a lot happer with the approch I have taken to the Recipe Book project, really breaking it down into small parts and working through them one by one. This project is the first to really highlight the power of react and I am enjoying learning as I go. Still have the biggest challanges of storing the data and allowing the user to interact with it to come.
+
 ### Day 56: April 3rd, 2017
 
-**Today's Progress**: Made some updates to my lreaderboard app to improve the performance/responsivness. Began work on the Recipe Book app.
+**Today's Progress**: Made some updates to my leaderboard app to improve the performance/responsivness. Began work on the Recipe Book app.
 
 **Thoughts**: I changed the leaderboard site so both sets of data are loaded in initially and just displayed as needed. I'm much more pleased with this set up as it is both more responsive for the user and neater in it's implimentation.
 
