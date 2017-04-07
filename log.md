@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 58: April 6th, 2017
+
+**Today's Progress**: Completed lesson 16 on Javascript 30.
+
+**Thoughts**: I have run into a bit of a wall on my recipie box project with regards to dealing with local storage and ther interaction. I need to take a steap back and plan out how I will impliment this. Rather than spin my wheels too much I moved back to the Javascript 30 course and continued working through that
+
 ### Day 57: April 4th, 2017
 
 **Today's Progress**: Really got stuck into my Recipe Book project today, getting the basic framework for the app in place. Now need to focus on how the user to interace with the data and how it will be saved to localstorage.
