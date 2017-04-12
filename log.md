@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 59: April 10th, 2017
+
+**Today's Progress**: Recipe book react project
+
+**Thoughts**: Back onto the recipe book react project today. Got my thoughts for progress down on paper and started moving forward again. Quite happy with the progress I made after feeling a bit stuck for a few days. 
+
 ### Day 58: April 6th, 2017
 
 **Today's Progress**: Completed lesson 16 on Javascript 30.
