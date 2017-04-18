@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 60: April 17th, 2017
+
+**Today's Progress**: Updated recipe book react project to use a single JSON Array to store the name and item list for each recipe and loading/saving thsi data to local storage. Also adding the ability for the usetr to add a new recipe
+
+**Thoughts**: After a week off it was nice to jump back into a project again. I'm finding this project very interesting and challanging as using local storage goes against my natural inclination to impliment a database for managing data. The local storage restriction  does a nice job of encouraging an implimentation involves the passing of data between react components, rather than each component loading the relevent data directly.
+
+Hopefully I can get back into the swing of things and start spending a bit more time on this over the next few weeks.
+
 ### Day 59: April 10th, 2017
 
 **Today's Progress**: Recipe book react project
