@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 61: April 18th, 2017
+
+**Today's Progress**: More work on the recipe book.
+
+**Thoughts**: I'm happy to have done two days in a row and to be thinking heavily about this project again but it is becomming very clear that I need to do some more learning in React before approching this project. I'm getting a little lost with the idea of editing data in the master components state and the use of modal pop-ups.
+
+I think I clear my head a bit I might get back to the javascript30 lessons, as those are really helping my general javascript skills then look for some react tutorials that deal with modal forms and editing state across different components.
+
 ### Day 60: April 17th, 2017
 
 **Today's Progress**: Updated recipe book react project to use a single JSON Array to store the name and item list for each recipe and loading/saving thsi data to local storage. Also adding the ability for the usetr to add a new recipe
