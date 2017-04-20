@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 62: April 19th, 2017
+
+**Today's Progress**: Worked through lessons 17, 18 and most of 19 of Javascript30
+
+**Thoughts**: As usual I found these very educational and love Web Bos' presentation style. He does a great job of picking projects which are very simple to put together but still contain some useful techniques
+
 ### Day 61: April 18th, 2017
 
 **Today's Progress**: More work on the recipe book.
