@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 63: April 20th, 2017
+
+**Today's Progress**: Completed lesson 19 and 20 Javascript30
+
+**Thoughts**: More great lessons, including a little bit on node.js/npm which I appreciate
+
 ### Day 62: April 19th, 2017
 
 **Today's Progress**: Worked through lessons 17, 18 and most of 19 of Javascript30
