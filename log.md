@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 64: April 21sh, 2017
+
+**Today's Progress**: Completed lesson 21 Javascript30
+
 ### Day 63: April 20th, 2017
 
 **Today's Progress**: Completed lesson 19 and 20 Javascript30
