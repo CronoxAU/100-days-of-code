@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 64: April 20th, 2017
+### Day 65: May 7th, 2017
 
 **Today's Progress**: Completed lesson 22 Javascript30 and started looking at using D3 for the Freee Code Camp Visualisation projects.
 
