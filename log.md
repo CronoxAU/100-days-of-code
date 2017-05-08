@@ -1,12 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 65: May 8th, 2017
+
+**Today's Progress**: Completed lesson 23 Javascript30.
+
+**Thoughts**: Trying to keep some momentum going here, managed to get a Javascript30 lesson completed and alos spent some time looking at lightweight windows HTTP servers for testing out client-side proejcts.
+
 ### Day 65: May 7th, 2017
 
 **Today's Progress**: Completed lesson 22 Javascript30 and started looking at using D3 for the Freee Code Camp Visualisation projects.
 
 **Thoughts**: After a long break I am back at it again. The D3 projects sound like they are right up my alley, but I have never used D3 itself before so I really enjoyed getting started on these.
 
-### Day 64: April 21sh, 2017
+### Day 64: April 21st, 2017
 
 **Today's Progress**: Completed lesson 21 Javascript30
 
