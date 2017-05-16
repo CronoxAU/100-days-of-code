@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 66: May 16th, 2017
+
+**Today's Progress**: Completed lessons 23 and 24 Javascript30.
+
+**Thoughts**: Another long break between updated which I am disapointed about.
+
+More good stuff from Wes, getting to the end of this course then planning to moving over to react. Hopefully will find some time to work on D3 as well.
+
 ### Day 65: May 8th, 2017
 
 **Today's Progress**: Completed lesson 23 Javascript30.
