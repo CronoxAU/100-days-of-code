@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 67: May 17th, 2017
+
+**Today's Progress**: Completed lesson 25 of Javascript30 and fif a little bit more playing around with D3
+
+**Thoughts**: Still really enjoying the Javascript30 class and have now signed up for Wes' React course which I can't wait to get stuck into.
+
+Also spent some time with D3, managed to get some real world JSON data loaded in. Now I just need to work on getting the Axis and labeling correct.
+
 ### Day 66: May 16th, 2017
 
 **Today's Progress**: Completed lessons 23 and 24 Javascript30.
