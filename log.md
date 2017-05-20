@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 68: May 19th, 2017
+
+**Today's Progress**: Working on the [FFC Visualize Data with a Bar Chart](https://www.freecodecamp.com/challenges/visualize-data-with-a-bar-chart) project, in D3, Google Charts and Chart.js
+
+**Thoughts**: I was doing some more work on this project and was not paritucally impressed by the D3 system, so I decided to look at charting the same data in a similer format using Google Charts and Chart.js. Still quite a bit of work to go to get all three working correctly but so far I am more impressed with Chart.js and Google Charts.
+
 ### Day 67: May 17th, 2017
 
 **Today's Progress**: Completed lesson 25 of Javascript30 and fif a little bit more playing around with D3
