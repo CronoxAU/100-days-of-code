@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 69: May 24th, 2017
+
+**Today's Progress**: Compelted lessons 27 and 28 of Javascript30 and a bit more work with D3, Google Charts and Chart.js
+
+**Thoughts**: Getting close to the end of Javascript30 now, still very much enjoying it.
+
+On the charting front I have both my D3 and Google Charts loading in data, now on to Chart.JA and then cleaning everything up.
+
 ### Day 68: May 19th, 2017
 
 **Today's Progress**: Working on the [FFC Visualize Data with a Bar Chart](https://www.freecodecamp.com/challenges/visualize-data-with-a-bar-chart) project, in D3, Google Charts and Chart.js
@@ -8,7 +16,7 @@
 
 ### Day 67: May 17th, 2017
 
-**Today's Progress**: Completed lesson 25 of Javascript30 and fif a little bit more playing around with D3
+**Today's Progress**: Completed lessons 25 and 26 of Javascript30 and fif a little bit more playing around with D3
 
 **Thoughts**: Still really enjoying the Javascript30 class and have now signed up for Wes' React course which I can't wait to get stuck into.
 
