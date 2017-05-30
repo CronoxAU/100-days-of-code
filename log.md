@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 70: May 30th, 2017
+
+**Today's Progress**: More work on my Bar Chart page.
+
+**Thoughts**: Happy to have all three charts now up and running, displaying the full data set. Now I need to clean everything up a bit and adjust things like the axis units and labels.
+
 ### Day 69: May 24th, 2017
 
 **Today's Progress**: Compelted lessons 27 and 28 of Javascript30 and a bit more work with D3, Google Charts and Chart.js
