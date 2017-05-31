@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 71: May 31st, 2017
+
+**Today's Progress**: The three way bar chart showdown is up and running at [Codepen](https://codepen.io/Cronox/full/YVEXYp/)
+
+**Thoughts**: Today was mostly tweaking and reviewing the results to get all the bells and wistles in place. Overall I spent much more time on the D3 chart than the other two, but I also feel like the D3 one turned out the best. I'm very interested to see how these will go in the next projectas the charts get more complex.
+
 ### Day 70: May 30th, 2017
 
 **Today's Progress**: More work on my Bar Chart page.
