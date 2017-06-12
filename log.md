@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 72: June 9th, 2017
+
+**Today's Progress**: Finished Lesson 29 on Javascript30, creating a supirsingly good Countsdown timer. 
+
+**Thoughts**: Unfortunatly I had another long break here, but it was good to get back into it again. The timer produced in this lesson was excellent and has me tempted to go back and update my prodomo timer from an early FCC project.
+
 ### Day 71: May 31st, 2017
 
 **Today's Progress**: The three way bar chart showdown is up and running at [Codepen](https://codepen.io/Cronox/full/YVEXYp/)
